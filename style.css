@@ -5,7 +5,7 @@ h1 {
 input {
   width: 100%;
   height: 25px;
-  border:solid 0.5px rgba(0, 0, 0, 0.400);
+  border: solid 0.5px rgba(0, 0, 0, 0.400);
 }
 
 .input_wrapper{
@@ -15,17 +15,17 @@ input {
 }
 
 .images_frame_under_filter{
-  width:630px;
+  width: 630px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin:40px;
+  margin: 40px;
 }
 
 .filter_contents {
   width: 300px;
   margin-bottom: 20px;
-  border:solid 0.5px rgba(0, 0, 0, 0.200);
+  border: solid 0.5px rgba(0, 0, 0, 0.200);
 }
 
 .inner_frame {
@@ -36,11 +36,9 @@ input {
   width: 100%;
   height: 170px;
   object-fit: cover;
-  margin-bottom:10px;
+  margin-bottom: 10px;
 }
 
 .hidden {
   display: none;
 }
-
-
